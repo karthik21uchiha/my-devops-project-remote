@@ -1,0 +1,3 @@
+echo "testing line"
+testing line editor
+This is my new feature adding from cli
